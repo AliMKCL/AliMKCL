@@ -102,5 +102,3 @@ I’m an aspiring software engineer from Turkey, with a passion for data science
   </a>
 </div>
 
-## 📫 Contact Me
-Feel free to contact me from a.muratkeceli@gmail.com
