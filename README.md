@@ -61,11 +61,7 @@ I’m an aspiring software engineer from Turkey, with a passion for data science
     alt="Spring Boot"
     style="height: 40px; width: auto;"
   />
-  <img
-  src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white"
-  alt="JavaFX"
-  style="height: 40px; width: auto;"
-/>
+
 
 
 - **Tools & Platforms:**
