@@ -1,5 +1,5 @@
 ## ⚜️ About Me
-I’m an aspiring software engineer from Turkey, with a passion for data science and machine learning, currently a 1st year computer science student at the University of Southampton.
+I’m an aspiring software engineer from Turkey, with a passion for machine learning and AI, currently a 1st year computer science student at the University of Southampton.
 
 ---
 
