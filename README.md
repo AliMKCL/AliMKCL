@@ -81,17 +81,17 @@ I’m an aspiring software engineer from Turkey, with a passion for machine lear
     alt="AWS"
     style="height: 30px; width: auto;"
   />
-  </div>
   <img
-  src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"
-  alt="PostgreSQL"
-  style="height: 30px; width: auto;"
-/>
-<img
-  src="https://img.shields.io/badge/ChromaDB-5E17EB?style=flat-square&logo=chromadb&logoColor=white"
-  alt="ChromaDB"
-  style="height: 30px; width: auto;"
-/>
+    src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"
+    alt="PostgreSQL"
+    style="height: 30px; width: auto;"
+  />
+  <img
+    src="https://img.shields.io/badge/ChromaDB-5E17EB?style=flat-square&logo=chromadb&logoColor=white"
+    alt="ChromaDB"
+    style="height: 30px; width: auto;"
+  />
+  </div>
 
 ## 🌐 Socials
 
