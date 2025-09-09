@@ -91,6 +91,11 @@ I’m an aspiring software engineer from Turkey, with a passion for machine lear
     alt="ChromaDB"
     style="height: 30px; width: auto;"
   />
+  <img
+  src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
+  alt="Docker"
+  style="height: 30px; width: auto;"
+  />
   </div>
 
 ## 🌐 Socials
