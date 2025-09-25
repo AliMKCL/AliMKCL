@@ -96,6 +96,12 @@ I’m an aspiring software engineer from Turkey, with a passion for machine lear
   alt="Docker"
   style="height: 30px; width: auto;"
   />
+  <img
+  src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=000000"
+  alt="Ollama"
+  style="height: 30px; width: auto;"
+  />
+
   </div>
 
 ## 🌐 Socials
