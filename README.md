@@ -18,6 +18,11 @@ I’m an aspiring software engineer from Turkey, with a passion for machine lear
       style="height: 30px; width: auto;"
     />
     <img
+    src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"
+    alt="Go"
+    style="height: 30px; width: auto;"
+    />
+    <img
       src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"
       alt="HTML"
       style="height: 30px; width: auto;"
